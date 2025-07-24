@@ -1,4 +1,4 @@
-const cors = "https://cors-anywhere.com/"
+const cors = ""
 
 //utility function to replace all instances of toReplace with replaceWith in the orig string.
 function replaceAll(orig,toReplace,replaceWith){
